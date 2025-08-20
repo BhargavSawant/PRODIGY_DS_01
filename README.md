@@ -22,3 +22,8 @@ The project was completed as part of the Prodigy InfoTech Data Science Internshi
    ```bash
    git clone https://github.com/BhargavSawant/PRODIGY_DS_01.git
    cd PRODIGY_DS_01
+2. Install dependencies:
+pip install pandas numpy matplotlib seaborn
+
+3. Open and run the Jupyter Notebook:
+jupyter notebook
